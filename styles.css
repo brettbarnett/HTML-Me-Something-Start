@@ -1,1 +1,40 @@
 /* Write your CSS here! */
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    margin: 15px 20px;
+}
+
+.city {
+   font-weight: bold; 
+   font-size: 30px;
+}
+
+.tripDescription {
+    padding: 10px;
+}
+
+a:visited {
+    font-weight: normal;
+    color: green;
+}
+
+a:hover {
+    font-weight: bold;
+    color: red;
+}
+
+#mainHeading {
+    text-align: center;
+    font-size: 50px;
+}
+
+.funParagraph {
+    color: green;
+}
